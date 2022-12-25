@@ -1,5 +1,5 @@
 # algo_pyth
-
+```
 import numpy as np
 
 def norme(X):
@@ -31,3 +31,4 @@ X = np.array([1,1,1])
 e = 0.5
 r = algorithme(A,X,e)
 print(r)
+```
